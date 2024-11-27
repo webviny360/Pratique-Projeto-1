@@ -16,4 +16,3 @@ case $operador in
 esac
 
 echo "O resultado é: $resultado"
-
